@@ -1,6 +1,6 @@
 ## Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory
 ### Introduction
-This project is a tensorflow implement of [Emotional Conversation Generation](https://arxiv.org/abs/1704.01074). We revise the interface of the seq2seq model on tensorflow to realize our model.
+This project is a tensorflow implement of [Emotional Conversation Generation](https://arxiv.org/abs/1704.01074v3). We revise the interface of the seq2seq model on tensorflow to realize our model.
 ### requirements
  - Python 3.5
  - Tensorflow 1.0.1
